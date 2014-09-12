@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"char",
+				"char_a"
+			],
+			[
+				"amica",
+				"amicable_nums"
+			],
+			[
+				"proper_di",
+				"proper_divisors_sum"
+			],
+			[
+				"class",
+				"class_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "prime_factorization.rb",
+			"settings":
+			{
+				"buffer_size": 1879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "21.rb",
+			"settings":
+			{
+				"buffer_size": 1099,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bibek/Projects/ds2os/s2store-docs/ma_shrestha/chapters/24.rb",
+		"/Users/bibek/Projects/ds2os/s2store-docs/ma_shrestha/seive-prime.rb",
+		"/Users/bibek/Projects/project_euler/21.rb",
+		"/Users/bibek/Projects/project_euler/20.rb",
+		"/Users/bibek/Projects/project_euler/67.rb",
+		"/Users/bibek/Projects/project_euler/19.rb",
+		"/Users/bibek/Projects/project_euler/15.rb",
+		"/Users/bibek/Projects/project_euler/15.c",
+		"/Users/bibek/Projects/project_euler/18.rb",
+		"/Users/bibek/Projects/project_euler/14.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/7ebb5fd7d5d94a392ba21a44834ecc41edd1ce64/_item.scssc",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/composite_searches/states/_in_progress.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/advanced_search_options_toggle.coffee",
+		"/Users/bibek/Projects/fatb_all/frontier/lib/services/search_service.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/_searchbar.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/db/schema.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config/environment.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/fare_purchases_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/test/support/vcr_cassettes/PopunderDeeplink_build_all.json",
+		"/Users/bibek/Projects/fatb_all/frontier/lib/metric/insights.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/legs/_leg.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/trip.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/concerns/trip_recommender.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/scripts/test",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/filter.coffee",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/sorting_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/_filters.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/locales/fromatob_it.yml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/locales/fromatob_com.yml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/_sort_by_links.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/test/models/filter_trips/options_test.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config/application.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/filters/_price.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/passengers/_fields.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/initializers/rack_mini_profiler.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/trips/_trip.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/stylesheets/application.sass",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/filter_trips/options.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/trip_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config/routes.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/application.js",
+		"/Users/bibek/Projects/fatb_all/frontier/config/locales/fromatob_de.yml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/initializers/filter_parameter_logging.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/price.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/poll_for_redirect.coffee",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/passenger.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/5af85033d39874ac5c4b46fb7044ef291153a3c6/slider.css.sassc",
+		"/Users/bibek/Projects/fatb_all/frontier/app/controllers/concerns/set_locale_concern.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/datepicker.coffee",
+		"/Users/bibek/Projects/fatb_all/frontier/app/controllers/test_controller.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/test/hello.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/Gemfile",
+		"/Users/bibek/Projects/fatb_all/frontier/app/controllers/application_controller.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/5af85033d39874ac5c4b46fb7044ef291153a3c6/application.sassc",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/concerns/array_product.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/test/test_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/miniprofiler/mp_timers_e2xd6ehqfkflqiebn052",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/roundtrips/_roundtrip.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/filters/_duration.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/initializers/i18n.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config/environments/development.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/i18n_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config/index_whitelist.yml",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/7ebb5fd7d5d94a392ba21a44834ecc41edd1ce64/_comment.scssc",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/70574b1d80f8d462ea778564f3effcff6ca30311/_code.scssc",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/cms/train/stations/_chart.html.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/_search_form.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/layout_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/layouts/application.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/config/locales/verkehrsmittelvergleich_at.yml",
+		"/Users/bibek/Projects/fatb_all/frontier/lib/middleware/localization.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/test/integration/composite_search_test.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/form_validation.js",
+		"/Users/bibek/Projects/fatb_all/frontier/test/support/vcr_cassettes/CompositeSearch_find_state.json",
+		"/Users/bibek/Projects/fatb_all/frontier/test/support/vcr_cassettes/CompositeSearch_save.json",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/composite_search.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/config.ru",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/composite_searches/states/_done.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/trips/_expandable_details.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/shared/_poll_for_redirect.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/layouts/_piwik.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/tmp/cache/assets/development/sass/426ba940ac21d6da9632b4b405cc4bb504646d47/_alerts.scssc",
+		"/Users/bibek/Projects/fatb_all/frontier/app/views/multi_searches/_segments.haml",
+		"/Users/bibek/Projects/fatb_all/frontier/app/helpers/format_helper.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/stylesheets/scss/module/searchbar.scss",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/cms/search.rb",
+		"/Users/bibek/Projects/fatb_all/frontier/bin/server",
+		"/Users/bibek/Projects/fatb_all/frontier/log/development.log",
+		"/Users/bibek/Projects/fatb_all/frontier/scripts/deploy",
+		"/Users/bibek/Projects/fatb_all/frontier/app/assets/javascripts/trip_details_toggle.coffee",
+		"/Users/bibek/Projects/fatb_all/frontier/app/models/leg.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/crawler/com_thehimalayantimes.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/crawler/com_nagariknews.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/crawler/com_myrepublica.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/worker.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/crawler/com_ekantipur.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/log.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/scripts/run.sh",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/config.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/Readme",
+		"/Users/bibek/Projects/bharkhar-sidekiq/config/Bharkhar.yml",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/workers/downloader.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/Dockerfile",
+		"/Users/bibek/Projects/bharkhar-frontend/app/config.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/.bundle/config",
+		"/Users/bibek/Projects/bharkhar-frontend/scripts/run.sh",
+		"/Users/bibek/Projects/bharkhar-sidekiq/config/redis.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/config/sidekiq.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/Rakefile",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/crawler/com_ekantipur_kpost.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/paper_downloader.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/lib/bharkhar/pdf_packager.rb",
+		"/Users/bibek/Projects/bharkhar-sidekiq/workers.rb",
+		"/Users/bibek/Projects/Bharkhar/Rakefile",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar/paper_downloader.rb",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar/crawler/com_thehimalayantimes.rb",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar/crawler/com_ekantipur.rb",
+		"/Users/bibek/Projects/bharkhar-frontend/Dockerfile",
+		"/Users/bibek/Projects/Bharkhar/config/Bharkhar.yml",
+		"/Users/bibek/Projects/Bharkhar/config/redis.rb",
+		"/Users/bibek/Projects/Bharkhar/workers.rb",
+		"/Users/bibek/Projects/Bharkhar/Readme",
+		"/Users/bibek/Projects/Bharkhar/Dockerfile",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar/worker.rb",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar/pdf_packager.rb",
+		"/Users/bibek/Projects/Bharkhar/scripts/run.sh",
+		"/Users/bibek/Projects/Bharkhar/lib/bharkhar.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cache",
+			"i",
+			" ",
+			"recommendation_reason",
+			"details_date",
+			"link_to_purchase",
+			":.+",
+			"currency",
+			"€",
+			"jquery",
+			"datepicker",
+			"ui-datepicker-calendar",
+			"fromatob_it",
+			"sketch-1.png",
+			"details_datetime",
+			"price_below",
+			"From",
+			"def l",
+			"fromatob_com",
+			"time.formats",
+			"fromatob_it",
+			"details_datetime",
+			"fromatob_com",
+			"fromatob_it",
+			"distance_in_words",
+			"details_datetime",
+			"fromatob_it",
+			"details_datetime",
+			"URL",
+			"redirect_to @key"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			": XXXX"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "prime_factorization.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1708,
+								1708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"paste",
+										null
+									],
+									"mode_unknown",
+									null
+								],
+								"sequence": "",
+								"xpos": 8
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 646.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "21.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project_euler.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_it.yml",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"_search_form",
+				"app/views/shared/_search_form.haml"
+			],
+			[
+				"expandab",
+				"app/views/trips/_expandable_details.haml"
+			],
+			[
+				"trip.haml",
+				"app/views/trips/_trip.haml"
+			],
+			[
+				"fromatit",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"fromatob_it",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"fromat_",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"filterhaml",
+				"app/views/shared/_filters.haml"
+			],
+			[
+				"sorthelper",
+				"app/helpers/sorting_helper.rb"
+			],
+			[
+				"fromato",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"fromat_ityml",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"filtercoff",
+				"app/assets/javascripts/filter.coffee"
+			],
+			[
+				"_price",
+				"app/views/shared/filters/_price.haml"
+			],
+			[
+				"fromat_com",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"optiontest",
+				"test/models/filter_trips/options_test.rb"
+			],
+			[
+				"sortby",
+				"app/views/shared/_sort_by_links.haml"
+			],
+			[
+				"filter",
+				"app/assets/javascripts/filter.coffee"
+			],
+			[
+				"filteroption",
+				"app/models/filter_trips/options.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"applicationsass",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"testhello",
+				"app/views/test/hello.haml"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"fromatob_com",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"_trip",
+				"app/views/trips/_trip.haml"
+			],
+			[
+				"lhaml",
+				"app/views/legs/_leg.haml"
+			],
+			[
+				"fromato_",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"fromatob_it.",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"filtercoffee",
+				"app/assets/javascripts/filter.coffee"
+			],
+			[
+				"development.rb",
+				"config/environments/development.rb"
+			],
+			[
+				"i18n",
+				"app/helpers/i18n_helper.rb"
+			],
+			[
+				"fromatob_com.y",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"duration",
+				"app/views/shared/filters/_duration.haml"
+			],
+			[
+				"filter.coff",
+				"app/assets/javascripts/filter.coffee"
+			],
+			[
+				"_comyml",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"from_com.yml",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"from_it.yml",
+				"config/locales/fromatob_it.yml"
+			],
+			[
+				"compositesearchtest",
+				"test/integration/composite_search_test.rb"
+			],
+			[
+				"_search_form.haml",
+				"app/views/shared/_search_form.haml"
+			],
+			[
+				"_searchform",
+				"app/views/shared/_search_form.haml"
+			],
+			[
+				"_searchbar",
+				"app/views/shared/_searchbar.haml"
+			],
+			[
+				"_fields",
+				"app/views/passengers/_fields.haml"
+			],
+			[
+				"_duration.haml",
+				"app/views/shared/filters/_duration.haml"
+			],
+			[
+				"_done.",
+				"app/views/composite_searches/states/_done.haml"
+			],
+			[
+				"_duration",
+				"app/views/shared/filters/_duration.haml"
+			],
+			[
+				"fromat_de.",
+				"config/locales/fromatob_de.yml"
+			],
+			[
+				"fromat_deyml",
+				"config/locales/fromatob_de.yml"
+			],
+			[
+				"searchbar",
+				"app/views/shared/_searchbar.haml"
+			],
+			[
+				"fromatob",
+				"config/locales/fromatob_com.yml"
+			],
+			[
+				"_field",
+				"app/views/passengers/_fields.haml"
+			],
+			[
+				"leghaml",
+				"app/views/legs/_leg.haml"
+			],
+			[
+				"config.rb",
+				"bharkhar-sidekiq/lib/bharkhar/config.rb"
+			],
+			[
+				"script/",
+				"bharkhar-frontend/scripts/run.sh"
+			],
+			[
+				"log",
+				"bharkhar-sidekiq/lib/log.rb"
+			],
+			[
+				"rakefile",
+				"bharkhar-sidekiq/Rakefile"
+			],
+			[
+				"bharkhargemfile.loc",
+				"Bharkhar/Gemfile.lock"
+			],
+			[
+				"frontdockerf",
+				"bharkhar-frontend/Dockerfile"
+			],
+			[
+				"viewkeyinde",
+				"app/views/keys/index.html.erb"
+			],
+			[
+				"keyc",
+				"app/controllers/keys_controller.rb"
+			],
+			[
+				"keynew",
+				"app/views/keys/new.html.erb"
+			],
+			[
+				"modelprojec",
+				"app/models/project.rb"
+			],
+			[
+				"projectcontext",
+				"db/migrate/20140609134341_project_context_models_join_table.rb"
+			],
+			[
+				"add",
+				"db/migrate/20140609120809_add_user_id_to_keys.rb"
+			],
+			[
+				"addcontextmode",
+				"db/migrate/20140609133658_add_user_id_to_context_models.rb"
+			],
+			[
+				"addcontext",
+				"db/migrate/20140609133637_add_user_id_to_context_model.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"addusertokey",
+				"db/migrate/20140609120809_add_user_id_to_keys.rb"
+			],
+			[
+				"adduserto",
+				"db/migrate/20140519161455_add_username_to_user.rb"
+			],
+			[
+				"schema.rb",
+				"db/schema.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/bibek/Projects/project_euler"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

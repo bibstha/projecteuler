@@ -1,0 +1,32 @@
+$lengths = {1 => 1}
+$longest = {key: 1, value: 1}
+
+def length i
+  return $lengths[i] if $lengths.include?(i)
+
+  n = i
+  count = 0
+  until $lengths.include? i
+    # puts i
+    if i % 2 == 0
+      i = i / 2
+    else
+      i = 3 * i + 1
+    end
+    count += 1
+  end
+  $lengths[n] = count + $lengths[i]
+end
+
+def solve
+  (1..1_000_000).each do |x|
+    l = length x
+    if l > $longest[:value]
+      $longest = {key: x, value: l}
+    end
+  end
+
+  puts $longest
+end
+
+solve
